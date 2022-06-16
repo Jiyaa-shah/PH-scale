@@ -1,0 +1,84 @@
+#bg{
+    background-color:grey;
+}
+#heading{
+    background-color: honeydew;
+    color:blue;
+    margin: 50px;
+    padding: 5px;
+}
+.text1{
+    background-color: #08375C;
+  
+}
+.text2{
+    background-color: #06528E;
+  
+}
+.text3{
+    background-color:#248EE2;
+  
+
+}
+.text4{
+    background-color:#296797;
+  
+
+}
+.text5{
+    background-color: #248EE2;
+  
+
+}
+.text6{
+    background-color: #419CE4;
+  
+}
+.text7{
+    background-color: #6EB4EC;
+  
+}
+.ne{
+    background-color: rgb(6, 41, 3);
+   
+}
+.text8{
+    background-color: #E0467B;
+    color: white;
+    margin-left:50px;
+    margin-right:50px;
+    padding: 8px;
+}
+.text9{
+    background-color: #C23565;
+    color: white;
+    margin-left:50px;
+    margin-right:50px;
+    padding: 8px;
+}
+.text10{
+    background-color:#A32C55;
+   
+}
+.text11{
+    background-color:#7F344D;
+   
+}
+.text12{
+    background-color: #7B2240;
+   
+}
+.text13{
+    background-color: #721534;
+   }
+.text14{
+    background-color: #630927;
+   
+}
+
+.container{
+    color: white;
+    margin-left:50px;
+    margin-right:50px;
+    padding: 8px;
+}
